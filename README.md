@@ -51,7 +51,8 @@ List of tools and techniques for working with relational databases inspired by o
 - [MissionKontrol](https://github.com/Mission-Kontrol/MissionKontrol) - Self-hosted admin panel to manage one or more MySQL/PostGRES databases.
 - [DBeaver](https://dbeaver.io) - Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases.
 - [EverSQL](https://www.eversql.com/) - SQL query optimization and database observability, powered by AI.
-- [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+- [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features.
+- [Luna Modeler](https://www.datensen.com) - Data modeling and reporting tool for Oracle, SQL server, MySQL, PostgreSQL and other relational databases. Available for macOS, Windows and Linux.
 
 ## <a name="resources"></a>Resources
 
